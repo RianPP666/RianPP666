@@ -1,13 +1,9 @@
 ![Rian Putra Pratama](img/header.png)
 
-## About Me👋
-- 🎓 Informatics Engineering student  
-- 💻 Interested in Web and Application Development
-- 📊 Passionate about building apps that solve real problems
-- 🧠 Currently still learning and improving my web and application development skills
+# 💫 About Me:
+- 🎓 Informatics Engineering student  <br>- 💻 Interested in Web and Application Development<br>- 📊 Passionate about building apps that solve real problems<br>- 🧠 Currently still learning and improving my web and application development skills
 
-## Technology & Tools💻
-
+# 💻 Tech Stack:
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php"/>
@@ -17,17 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="laravel"/>
 </div>
 
-<!--
-**RianPP666/RianPP666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RianPP666&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RianPP666&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RianPP666&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
