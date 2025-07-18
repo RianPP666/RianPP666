@@ -1,4 +1,4 @@
-![Rian Putra Pratama](img/header.png)
+![Rian Putra Pratama](img/header2.png)
 
 # 💫 About Me
 - 🎓 Informatics Engineering student  
