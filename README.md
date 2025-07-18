@@ -1,6 +1,6 @@
 ![Rian Putra Pratama](img/header.png)
 
-# 💫 About Me:
+# 💫 About Me
 - 🎓 Informatics Engineering student  
 - 💻 Interested in Web and Application Development  
 - 📊 Passionate about building apps that solve real problems  
@@ -8,7 +8,7 @@
 
 <br>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html" style="margin-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php" style="margin-right:10px;"/>
@@ -20,7 +20,7 @@
 
 <br>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <br>
 
@@ -29,3 +29,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RianPP666&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+
+<br>
+
+# 🎮 Pacman Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RianPP666/RianPP666/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RianPP666/RianPP666/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RianPP666/RianPP666/output/pacman-contribution-graph.svg">
+</picture>
